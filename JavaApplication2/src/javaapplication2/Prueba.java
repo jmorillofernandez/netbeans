@@ -10,5 +10,9 @@ package javaapplication2;
  * @author wadmin
  */
 public class Prueba {
+ 
+   
+    public Prueba(){
+    System.out.println();}
     
 }
